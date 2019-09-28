@@ -1,0 +1,6 @@
+AlgMid[int arr, int n]
+numbers <-[1,2,3,4,5]
+n <-5
+mid <-1<i<n
+i<-(n+1)/2
+Return i
